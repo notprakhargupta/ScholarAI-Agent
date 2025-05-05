@@ -1,4 +1,4 @@
-# **App Name**: ScholarAgenticAI
+ScholarAgenticAI
 
 ## Core Features:
 
